@@ -1,4 +1,4 @@
-module xiaomi
+module gitee.com/shirdonl/LeastMall
 
 go 1.14
 
